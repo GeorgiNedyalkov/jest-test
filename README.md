@@ -182,3 +182,13 @@ Jest uses "matchers" to test values in different ways.
 
   **_Note_**: the function that throws an exception needs to be invoked withing a wrapping function
   otherwise the `toThrow` assertion will fail.
+
+## Testing Asynchronous Code
+
+- Promises
+
+- Async / Await
+
+- Callbacks
+
+- .resolves / .rejects
